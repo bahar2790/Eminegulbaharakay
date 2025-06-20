@@ -2,7 +2,7 @@
 
 This is the source code for my personal portfolio website, built with Next.js and Tailwind CSS. The website showcases my projects, skills, and professional background in data science, data analysis, and business analysis.
 
-[![Portfolio Screenshot](public/projects/1.png)](https://your-live-url.vercel.app)
+[![Portfolio Screenshot](public/projects/ana.png)](https://your-live-url.vercel.app)
 
 **Live Demo:** [**portfolio-link.vercel.app**](https://your-live-url.vercel.app) *(Deployment pending)*
 
