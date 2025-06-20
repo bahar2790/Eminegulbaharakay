@@ -1,24 +1,72 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Emine Gülbahar Akay - Data Analyst & Scientist Portfolio
 
-## Getting Started
+This is the source code for my personal portfolio website, built with Next.js and Tailwind CSS. The website showcases my projects, skills, and professional background in data science, data analysis, and business analysis.
 
-First, run the development server:
+[![Portfolio Screenshot](public/projects/1.png)](https://your-live-url.vercel.app)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Live Demo:** [**portfolio-link.vercel.app**](https://your-live-url.vercel.app) *(Deployment pending)*
+
+---
+
+## ✨ Features
+
+- **Responsive Design:** Fully responsive layout that looks great on all devices, from mobile phones to desktops.
+- **Project Showcase:** A dedicated section to display my data analysis, machine learning, and visualization projects with descriptions and links.
+- **Interactive UI:** Smooth transitions and a clean user interface built with modern web technologies.
+- **About Me:** Detailed sections covering my story, work experience, education, and technical skills.
+- **Direct Contact:** An easy way to get in touch via email.
+
+---
+
+## 🛠️ Technologies Used
+
+This project was built using the following technologies:
+
+- **Framework:** [Next.js](https://nextjs.org/) (v14+)
+- **Language:** [TypeScript](https://www.typescriptlang.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Icons:** [React Icons](https://react-icons.github.io/react-icons/)
+- **Deployment:** [Vercel](https://vercel.com/)
+
+---
+
+## 🚀 Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed on your machine.
+- You can download them from [nodejs.org](https://nodejs.org/).
+
+### Installation
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/your-username/your-repository-name.git
+   ```
+2. **Navigate to the project directory:**
+   ```sh
+   cd your-repository-name
+   ```
+3. **Install NPM packages:**
+   ```sh
+   npm install
+   ```
+4. **Run the development server:**
+   ```sh
+   npm run dev
+   ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Licensing
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
 
 ## Learn More
 
